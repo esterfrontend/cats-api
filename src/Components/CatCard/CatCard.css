@@ -1,0 +1,9 @@
+.cat {
+    border: 1px solid;
+    padding: 20px;
+    margin: 30px;
+}
+
+.cat img {
+    max-width: 300px;
+}
